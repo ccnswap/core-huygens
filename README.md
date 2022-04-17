@@ -12,7 +12,7 @@ The following assumes the use of `node@>=10`.
 
 ## Config 
 
-`cp .env.local .env`
+`cp env.local .env`
 
 Edit .env HUYGENS_PRIVATE_KEY
 
